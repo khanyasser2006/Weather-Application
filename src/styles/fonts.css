@@ -1,0 +1,47 @@
+/* Great Vibes (Logo / Brand Wordmark) */
+@font-face {
+  font-family: "GreatVibes";
+  src: url("../assets/fonts/great-vibes/GreatVibes-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Kugile (Main UI Font) */
+@font-face {
+  font-family: "Kugile";
+  src: url("../assets/fonts/kugile/Kugile_Demo.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kugile";
+  src: url("../assets/fonts/kugile/Kugile_Demo.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kugile";
+  src: url("../assets/fonts/kugile/Kugile_Demo.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Kugile";
+  src: url("../assets/fonts/kugile/Kugile_Demo.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Global Font System */
+body {
+  font-family: "Kugile", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Kugile", sans-serif;
+}
+
+

@@ -1,0 +1,12 @@
+@import "./styles/fonts.css";
+
+@import "tailwindcss";
+
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply antialiased text-white;
+    background-color: #07111F;
+  }
+}
