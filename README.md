@@ -1,10 +1,5 @@
 
 
-https://github.com/user-attachments/assets/3a3d44d3-a49e-4339-a32e-f38eeddc8617
-
-
-
-https://github.com/user-attachments/assets/f303013a-8458-431d-97ba-9edaa70516e6
 
 # 🌦️ Weather Application
 
