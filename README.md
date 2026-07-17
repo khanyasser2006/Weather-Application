@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/3a3d44d3-a49e-4339-a32e-f38eeddc8617
+
+
+
+https://github.com/user-attachments/assets/f303013a-8458-431d-97ba-9edaa70516e6
+
 # 🌦️ Weather Application
 
 A modern weather application that provides real-time weather information, hourly forecasts, 7-day predictions, air quality insights, and interactive weather maps through a clean and responsive user interface.
@@ -124,6 +132,10 @@ http://localhost:5173
 
 ## 🎥 Video
 
+
+
+
+https://github.com/user-attachments/assets/e05019ae-432c-4b07-95cc-e9577e649320
 
 
 
